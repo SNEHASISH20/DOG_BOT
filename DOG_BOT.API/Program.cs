@@ -1,7 +1,12 @@
+using DOG_BOT.API.Interfaces;
+using DOG_BOT.API.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
+
+builder.Services.AddScoped<IChatService, ChatService>();
 
 var app = builder.Build();
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DOG_BOT.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9e8ddad68221e7840e7e45d89fe3e2255acce87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdb7fc60907c285eb4a9a2d06cad9b4dddebd7c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DOG_BOT.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DOG_BOT.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
